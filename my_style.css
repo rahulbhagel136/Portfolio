@@ -1,0 +1,125 @@
+body.back {
+	margin:0px;
+	background-size:100%;
+	background-image:url(img/full.jpg);
+}
+.back1 {
+	margin:0px;
+	background-size:100%;
+	background-image:url(img/im1.jpg);
+}
+.back2 {
+	margin:0px;
+	background-size:50%;
+	background-image:url(img/acads.jpg);
+}
+.back3 {
+	margin:0px;
+	background-size:100%;
+	background-image:url(img/im2.jpg);
+}
+ul {
+	list-style-type:none;
+	margin-top:0px;
+	margin-left:-40px;
+	background-color:#333333;
+	overflow:hidden;
+	
+}
+li {
+	float:left;
+}
+li a {
+	text-decoration:none;
+	color:#ffffff;
+	display:block;
+	text-align:center;
+	padding:15px 20px;
+	
+}
+li a:hover {
+	background-color:#0d0d0d;
+}
+#id1 {
+	float:right;
+	margin-top:450px;
+	margin-right:0px;
+}
+#id2 {
+	border: 1px solid #000000;
+    border-radius: 4px;
+    padding: 5px;
+	width:250px;
+	margin-top:160px;
+	margin-left:130px;
+}
+.col {
+	column-count:2;
+	column-gap:80px;
+	float:right;
+	border:1px solid #000000;
+	margin-top:-435px;
+	margin-left:400px;
+	padding:60px;
+	font-weight:bold;
+	margin-right:50px;
+	border-radius:4px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#cc66ff;
+	word-spacing:3px;
+}
+#id3 {
+	column-span:all;
+	text-align:center;
+	margin-top:-20px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#999966;
+}
+.active {
+	background-color:black;
+}
+.intro {
+	border:3px solid black;
+	margin-right:60%;
+	margin-left:5%;
+	padding:2%;
+	margin-top:2%;
+	line-height:25px;
+	word-spacing:3px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:#000000;
+	border-color:#cc0000;
+	border-radius:6px;
+}
+#head {
+	margin-left:13%;
+	margin-top:5%;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#cc0000;
+}
+#fit {
+	width:100px;
+	float:left;
+	border:1px solid;
+	padding:4px;
+	border-radius:4px;
+}
+.loc {
+	border:5px solid #cc3300;
+	margin-left:32%;
+	margin-right:28%;
+	background-image:url(img/im3.jpg);
+	border-radius:9px;
+}
+#fit1 {
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#0099ff;
+}
+#pad {
+	padding-left:10px;
+	padding-right:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#8600b3;
+}
